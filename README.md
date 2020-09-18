@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://codepen.io/lv11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lv11" height="30" width="30" /></a>
 <a href="https://twitter.com/Luckficus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@luckficus" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/lucas-vejar-321a56185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/lucas-vejar-321a56185" height="30" width="30" /></a>
-<a href="https://instagram.com/mind_mindschief" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mind_mindschief" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/lucas-vejar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/lucas-vejar" height="30" width="30" /></a>
 </p>
